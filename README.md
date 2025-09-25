@@ -3,4 +3,4 @@ simple web page
 #skills
 html
 css
-view project(
+view project(https://anbarasuanbu68543-lgtm.github.io/plans-Simple-page/)
